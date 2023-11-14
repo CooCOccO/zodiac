@@ -14,8 +14,8 @@ module Zodiac
     end
 
     RANGES = {
-      range_for(1,  1,  1,  20) => :capricorn,
-      range_for(1,  21, 2,  18) => :aquarius,
+      range_for(1,  1,  1,  19) => :capricorn,
+      range_for(1,  20, 2,  18) => :aquarius,
       range_for(2,  19, 3,  20) => :pisces,
       range_for(3,  21, 4,  19) => :aries,
       range_for(4,  20, 5,  20) => :taurus,
